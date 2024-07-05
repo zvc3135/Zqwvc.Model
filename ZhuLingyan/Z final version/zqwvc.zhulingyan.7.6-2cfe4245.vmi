@@ -1,0 +1,12 @@
+{ 
+   "id" : "zqwvc.zhulingyan.7.6", 
+   "displayName" : "zqwvc.zhulingyan.7.6", 
+   "group" : "zqwvc", 
+   "region" : "zqwvc", 
+   "min" : "0", 
+   "max" : "1", 
+   "numDeltas" : "17147", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

@@ -1,0 +1,12 @@
+{ 
+   "id" : "zqwvc.zhulingyan.9.20-genital", 
+   "displayName" : "zqwvc.zhulingyan.9.20 Genital", 
+   "group" : "zqwvc", 
+   "region" : "zqwvc", 
+   "min" : "0", 
+   "max" : "1", 
+   "numDeltas" : "1140", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

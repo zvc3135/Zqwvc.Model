@@ -1,0 +1,12 @@
+{ 
+   "id" : "zqwvc.zoe.extra.62.normal_scale-genital", 
+   "displayName" : "zqwvc.zoe.extra.62.normal_scale Genital", 
+   "group" : "zqwvc", 
+   "region" : "zqwvc", 
+   "min" : "0", 
+   "max" : "1", 
+   "numDeltas" : "1452", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

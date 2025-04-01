@@ -1,0 +1,12 @@
+{ 
+   "id" : "zqwvc.zoe.extra.53-genital", 
+   "displayName" : "zqwvc.zoe.extra.53 Genital", 
+   "group" : "zqwvc", 
+   "region" : "zqwvc", 
+   "min" : "0", 
+   "max" : "1", 
+   "numDeltas" : "1452", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

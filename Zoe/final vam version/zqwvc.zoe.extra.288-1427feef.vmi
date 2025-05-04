@@ -1,0 +1,1212 @@
+{ 
+   "id" : "zqwvc.zoe.extra.288", 
+   "displayName" : "zqwvc.zoe.extra.288", 
+   "group" : "zwvc", 
+   "region" : "zqwvc", 
+   "min" : "0", 
+   "max" : "1", 
+   "numDeltas" : "21556", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "hip", 
+         "multiplier" : "-1.651905E-06"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "hip", 
+         "multiplier" : "-0.0002931976"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "hip", 
+         "multiplier" : "0.002757012"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "pelvis", 
+         "multiplier" : "-2.927266E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "pelvis", 
+         "multiplier" : "9.536743E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "pelvis", 
+         "multiplier" : "0.001976831"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lThigh", 
+         "multiplier" : "0.00129899"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lThigh", 
+         "multiplier" : "-0.003545914"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lThigh", 
+         "multiplier" : "7.284507E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lShin", 
+         "multiplier" : "0.01509975"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lShin", 
+         "multiplier" : "-0.002099762"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lShin", 
+         "multiplier" : "0.005347455"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lFoot", 
+         "multiplier" : "2.820015E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lFoot", 
+         "multiplier" : "-0.01970352"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lFoot", 
+         "multiplier" : "0.01018154"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lToe", 
+         "multiplier" : "0.001020327"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lToe", 
+         "multiplier" : "-0.01762594"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lToe", 
+         "multiplier" : "0.005682144"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lBigToe", 
+         "multiplier" : "0.0001209545"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lBigToe", 
+         "multiplier" : "-0.01785309"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lBigToe", 
+         "multiplier" : "0.006211977"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lSmallToe1", 
+         "multiplier" : "0.0007425976"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lSmallToe1", 
+         "multiplier" : "-0.0175332"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lSmallToe1", 
+         "multiplier" : "0.00531888"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lSmallToe2", 
+         "multiplier" : "0.001604195"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lSmallToe2", 
+         "multiplier" : "-0.01777248"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lSmallToe2", 
+         "multiplier" : "0.004785538"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lSmallToe3", 
+         "multiplier" : "0.001955471"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lSmallToe3", 
+         "multiplier" : "-0.01783551"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lSmallToe3", 
+         "multiplier" : "0.004295187"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lSmallToe4", 
+         "multiplier" : "0.002397575"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lSmallToe4", 
+         "multiplier" : "-0.0177719"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lSmallToe4", 
+         "multiplier" : "0.003298788"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rThigh", 
+         "multiplier" : "-0.001285295"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rThigh", 
+         "multiplier" : "-0.003554382"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rThigh", 
+         "multiplier" : "7.424541E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rShin", 
+         "multiplier" : "-0.01509588"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rShin", 
+         "multiplier" : "-0.002120361"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rShin", 
+         "multiplier" : "0.005346095"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rFoot", 
+         "multiplier" : "-2.453804E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rFoot", 
+         "multiplier" : "-0.01973156"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rFoot", 
+         "multiplier" : "0.01018313"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rToe", 
+         "multiplier" : "-0.001011677"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rToe", 
+         "multiplier" : "-0.01761963"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rToe", 
+         "multiplier" : "0.005679789"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rBigToe", 
+         "multiplier" : "-0.0001251316"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rBigToe", 
+         "multiplier" : "-0.01783796"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rBigToe", 
+         "multiplier" : "0.006211777"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rSmallToe1", 
+         "multiplier" : "-0.0007448005"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rSmallToe1", 
+         "multiplier" : "-0.01752816"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rSmallToe1", 
+         "multiplier" : "0.005317097"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rSmallToe2", 
+         "multiplier" : "-0.001599302"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rSmallToe2", 
+         "multiplier" : "-0.01777409"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rSmallToe2", 
+         "multiplier" : "0.004779015"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rSmallToe3", 
+         "multiplier" : "-0.001882401"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rSmallToe3", 
+         "multiplier" : "-0.01786373"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rSmallToe3", 
+         "multiplier" : "0.004237576"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rSmallToe4", 
+         "multiplier" : "-0.002428036"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rSmallToe4", 
+         "multiplier" : "-0.01779566"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rSmallToe4", 
+         "multiplier" : "0.003372822"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "abdomen", 
+         "multiplier" : "-1.531836E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "abdomen", 
+         "multiplier" : "-0.0002526093"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "abdomen", 
+         "multiplier" : "0.003386306"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "abdomen2", 
+         "multiplier" : "-2.371669E-06"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "abdomen2", 
+         "multiplier" : "0.003692398"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "abdomen2", 
+         "multiplier" : "0.005039456"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "chest", 
+         "multiplier" : "-2.909034E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "chest", 
+         "multiplier" : "0.009597777"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "chest", 
+         "multiplier" : "0.008184291"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "neck", 
+         "multiplier" : "1.054093E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "neck", 
+         "multiplier" : "-0.005420227"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "neck", 
+         "multiplier" : "0.009119329"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "head", 
+         "multiplier" : "-9.000227E-06"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "head", 
+         "multiplier" : "-0.01469681"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "head", 
+         "multiplier" : "0.01103742"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rEye", 
+         "multiplier" : "0.0009344934"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rEye", 
+         "multiplier" : "-0.01980957"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rEye", 
+         "multiplier" : "0.00322928"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lEye", 
+         "multiplier" : "-0.0009382581"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lEye", 
+         "multiplier" : "-0.01980972"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lEye", 
+         "multiplier" : "0.003227296"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "upperJaw", 
+         "multiplier" : "7.561408E-07"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "upperJaw", 
+         "multiplier" : "-0.01594452"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "upperJaw", 
+         "multiplier" : "0.009661747"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lowerJaw", 
+         "multiplier" : "4.161149E-06"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lowerJaw", 
+         "multiplier" : "-0.01578812"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lowerJaw", 
+         "multiplier" : "0.009837295"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongueBase", 
+         "multiplier" : "0.000219838"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongueBase", 
+         "multiplier" : "-0.02672318"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongueBase", 
+         "multiplier" : "0.01013678"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongue01", 
+         "multiplier" : "-4.677028E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongue01", 
+         "multiplier" : "-0.008683319"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongue01", 
+         "multiplier" : "0.002218249"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongue02", 
+         "multiplier" : "-1.924949E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongue02", 
+         "multiplier" : "-0.01063797"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongue02", 
+         "multiplier" : "0.001242118"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongue03", 
+         "multiplier" : "-1.764987E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongue03", 
+         "multiplier" : "-0.01135818"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongue03", 
+         "multiplier" : "5.22995E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongue04", 
+         "multiplier" : "-1.308299E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongue04", 
+         "multiplier" : "-0.01165604"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongue04", 
+         "multiplier" : "-0.001392369"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongue05", 
+         "multiplier" : "-6.793205E-06"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongue05", 
+         "multiplier" : "-0.01172287"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongue05", 
+         "multiplier" : "-0.003027396"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "tongueTip", 
+         "multiplier" : "-1.322119E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "tongueTip", 
+         "multiplier" : "-0.002352142"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "tongueTip", 
+         "multiplier" : "-0.02005"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rCollar", 
+         "multiplier" : "-0.0004344976"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rCollar", 
+         "multiplier" : "0.002229462"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rCollar", 
+         "multiplier" : "0.005178622"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rShldr", 
+         "multiplier" : "-0.001659966"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rShldr", 
+         "multiplier" : "0.003890228"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rShldr", 
+         "multiplier" : "0.007471786"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rForeArm", 
+         "multiplier" : "-0.004001503"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rForeArm", 
+         "multiplier" : "0.002181091"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rForeArm", 
+         "multiplier" : "0.007263479"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rHand", 
+         "multiplier" : "-0.002673302"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rHand", 
+         "multiplier" : "0.001875305"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rHand", 
+         "multiplier" : "0.008999338"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rThumb1", 
+         "multiplier" : "-0.004194794"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rThumb1", 
+         "multiplier" : "0.002174377"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rThumb1", 
+         "multiplier" : "0.004054232"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rThumb2", 
+         "multiplier" : "-0.004601059"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rThumb2", 
+         "multiplier" : "0.004030304"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rThumb2", 
+         "multiplier" : "-0.005630264"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rThumb3", 
+         "multiplier" : "-0.007804565"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rThumb3", 
+         "multiplier" : "0.006420288"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rThumb3", 
+         "multiplier" : "-0.01074722"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rCarpal1", 
+         "multiplier" : "-0.004563217"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rCarpal1", 
+         "multiplier" : "0.0003849792"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rCarpal1", 
+         "multiplier" : "0.005646372"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rIndex1", 
+         "multiplier" : "-0.01209206"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rIndex1", 
+         "multiplier" : "-0.0006427002"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rIndex1", 
+         "multiplier" : "-0.00162466"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rIndex2", 
+         "multiplier" : "-0.01627769"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rIndex2", 
+         "multiplier" : "-0.0005848694"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rIndex2", 
+         "multiplier" : "-0.004890003"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rIndex3", 
+         "multiplier" : "-0.01854515"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rIndex3", 
+         "multiplier" : "-0.0001327515"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rIndex3", 
+         "multiplier" : "-0.006801949"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rMid1", 
+         "multiplier" : "-0.01443565"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rMid1", 
+         "multiplier" : "-0.0003723145"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rMid1", 
+         "multiplier" : "0.001557941"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rMid2", 
+         "multiplier" : "-0.01961182"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rMid2", 
+         "multiplier" : "-0.0006494141"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rMid2", 
+         "multiplier" : "-0.001068716"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rMid3", 
+         "multiplier" : "-0.0226371"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rMid3", 
+         "multiplier" : "-0.000969696"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rMid3", 
+         "multiplier" : "-0.002766504"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rCarpal2", 
+         "multiplier" : "-0.006669464"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rCarpal2", 
+         "multiplier" : "0.001356812"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rCarpal2", 
+         "multiplier" : "0.009537134"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rRing1", 
+         "multiplier" : "-0.01566872"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rRing1", 
+         "multiplier" : "0.0008979797"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rRing1", 
+         "multiplier" : "0.004992371"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rRing2", 
+         "multiplier" : "-0.02091728"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rRing2", 
+         "multiplier" : "0.0008908081"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rRing2", 
+         "multiplier" : "0.003203659"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rRing3", 
+         "multiplier" : "-0.02406006"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rRing3", 
+         "multiplier" : "3.936768E-05"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rRing3", 
+         "multiplier" : "0.002247066"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rPinky1", 
+         "multiplier" : "-0.01567284"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rPinky1", 
+         "multiplier" : "0.002958527"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rPinky1", 
+         "multiplier" : "0.008614283"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rPinky2", 
+         "multiplier" : "-0.01997757"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rPinky2", 
+         "multiplier" : "0.002654114"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rPinky2", 
+         "multiplier" : "0.007548512"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rPinky3", 
+         "multiplier" : "-0.02287117"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rPinky3", 
+         "multiplier" : "0.001990814"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rPinky3", 
+         "multiplier" : "0.006688995"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lCollar", 
+         "multiplier" : "0.0004381299"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lCollar", 
+         "multiplier" : "0.002201385"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lCollar", 
+         "multiplier" : "0.00518912"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lShldr", 
+         "multiplier" : "0.001645613"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lShldr", 
+         "multiplier" : "0.003876648"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lShldr", 
+         "multiplier" : "0.007470269"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lForeArm", 
+         "multiplier" : "0.004016685"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lForeArm", 
+         "multiplier" : "0.002199249"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lForeArm", 
+         "multiplier" : "0.007268484"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lHand", 
+         "multiplier" : "0.002677116"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lHand", 
+         "multiplier" : "0.00188797"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lHand", 
+         "multiplier" : "0.009002724"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lThumb1", 
+         "multiplier" : "0.004192276"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lThumb1", 
+         "multiplier" : "0.002182159"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lThumb1", 
+         "multiplier" : "0.004053335"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lThumb2", 
+         "multiplier" : "0.004599228"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lThumb2", 
+         "multiplier" : "0.004031677"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lThumb2", 
+         "multiplier" : "-0.005631037"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lThumb3", 
+         "multiplier" : "0.007796478"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lThumb3", 
+         "multiplier" : "0.006424408"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lThumb3", 
+         "multiplier" : "-0.01074594"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lCarpal1", 
+         "multiplier" : "0.004539871"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lCarpal1", 
+         "multiplier" : "0.0004037476"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lCarpal1", 
+         "multiplier" : "0.00565259"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lIndex1", 
+         "multiplier" : "0.01208961"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lIndex1", 
+         "multiplier" : "-0.0006385803"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lIndex1", 
+         "multiplier" : "-0.001623964"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lIndex2", 
+         "multiplier" : "0.01627434"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lIndex2", 
+         "multiplier" : "-0.0005705261"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lIndex2", 
+         "multiplier" : "-0.004889631"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lIndex3", 
+         "multiplier" : "0.01851997"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lIndex3", 
+         "multiplier" : "0.0002319336"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lIndex3", 
+         "multiplier" : "-0.006778336"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lMid1", 
+         "multiplier" : "0.01443848"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lMid1", 
+         "multiplier" : "-0.0003652954"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lMid1", 
+         "multiplier" : "0.001557627"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lMid2", 
+         "multiplier" : "0.01961136"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lMid2", 
+         "multiplier" : "-0.0006541443"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lMid2", 
+         "multiplier" : "-0.001066837"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lMid3", 
+         "multiplier" : "0.02260979"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lMid3", 
+         "multiplier" : "-0.0008621216"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lMid3", 
+         "multiplier" : "-0.002763672"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lCarpal2", 
+         "multiplier" : "0.006649399"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lCarpal2", 
+         "multiplier" : "0.001357727"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lCarpal2", 
+         "multiplier" : "0.009537573"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lRing1", 
+         "multiplier" : "0.01568115"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lRing1", 
+         "multiplier" : "0.0009069824"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lRing1", 
+         "multiplier" : "0.004989939"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lRing2", 
+         "multiplier" : "0.02091743"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lRing2", 
+         "multiplier" : "0.0009049987"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lRing2", 
+         "multiplier" : "0.003203602"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lRing3", 
+         "multiplier" : "0.02397957"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lRing3", 
+         "multiplier" : "0.0004463196"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lRing3", 
+         "multiplier" : "0.002261314"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lPinky1", 
+         "multiplier" : "0.01567406"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lPinky1", 
+         "multiplier" : "0.002958527"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lPinky1", 
+         "multiplier" : "0.008615189"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lPinky2", 
+         "multiplier" : "0.0199736"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lPinky2", 
+         "multiplier" : "0.00266098"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lPinky2", 
+         "multiplier" : "0.007550039"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lPinky3", 
+         "multiplier" : "0.02284683"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lPinky3", 
+         "multiplier" : "0.002255707"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lPinky3", 
+         "multiplier" : "0.006717463"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "rPectoral", 
+         "multiplier" : "-0.0007918739"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "rPectoral", 
+         "multiplier" : "0.009973297"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "rPectoral", 
+         "multiplier" : "0.007701001"
+      }, 
+      { 
+         "targetType" : "BoneCenterX", 
+         "target" : "lPectoral", 
+         "multiplier" : "0.0007896757"
+      }, 
+      { 
+         "targetType" : "BoneCenterY", 
+         "target" : "lPectoral", 
+         "multiplier" : "0.009969788"
+      }, 
+      { 
+         "targetType" : "BoneCenterZ", 
+         "target" : "lPectoral", 
+         "multiplier" : "0.007704554"
+      }
+   ]
+}

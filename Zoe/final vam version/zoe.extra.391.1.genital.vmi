@@ -1,0 +1,12 @@
+{ 
+   "id" : "zoe.extra.391.1.genital-0xa6f010c", 
+   "displayName" : "zoe.extra.391.1.genital", 
+   "group" : "Morphs/Morph Loader", 
+   "region" : "Morphs/Morph Loader", 
+   "min" : "-1", 
+   "max" : "1", 
+   "numDeltas" : "1452", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

@@ -1,0 +1,12 @@
+{ 
+   "id" : "zoe.extra.Special_VaM_Dedicated_95.Genital-0xa8255d2", 
+   "displayName" : "zoe.extra.Special_VaM_Dedicated_95.Genital", 
+   "group" : "Morphs/Morph Loader", 
+   "region" : "Morphs/Morph Loader", 
+   "min" : "-1", 
+   "max" : "1", 
+   "numDeltas" : "1450", 
+   "isPoseControl" : "false", 
+   "formulas" : [ 
+   ]
+}

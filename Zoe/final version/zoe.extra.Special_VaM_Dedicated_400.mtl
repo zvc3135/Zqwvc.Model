@@ -1,0 +1,12 @@
+# Blender 5.0.0 MTL File: 'G2 zoe Edit.v14.1.blend'
+# www.blender.org
+
+newmtl defaultMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/PC/Documents/GitHub/Zqwvc.Model/STARTER Model/Starter Model objs/starter.v1.step3.bmp

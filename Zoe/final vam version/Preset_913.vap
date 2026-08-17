@@ -1,0 +1,171 @@
+{ 
+   "setUnlistedParamsToDefault" : "true", 
+   "storables" : [ 
+      { 
+         "id" : "geometry", 
+         "morphs" : [ 
+            { 
+               "uid" : "609-Anus-In.Out-SmallArea", 
+               "name" : "609-Anus-In.Out-SmallArea", 
+               "value" : "-0.07095862"
+            }, 
+            { 
+               "uid" : "610-Anus-In.Out-WideArea", 
+               "name" : "610-Anus-In.Out-WideArea", 
+               "value" : "-0.03547931"
+            }, 
+            { 
+               "uid" : "Areola Depth", 
+               "name" : "Areola Depth", 
+               "value" : "0.3191576"
+            }, 
+            { 
+               "uid" : "Areola Puffy Edge", 
+               "name" : "Areola Puffy Edge", 
+               "value" : "0.245284"
+            }, 
+            { 
+               "uid" : "Areola Size", 
+               "name" : "Areola Size", 
+               "value" : "0.2133062"
+            }, 
+            { 
+               "uid" : "Areolae Diameter", 
+               "name" : "Areolae Diameter", 
+               "value" : "0.3519479"
+            }, 
+            { 
+               "uid" : "Areolae Perk", 
+               "name" : "Areolae Perk", 
+               "value" : "0.1135914"
+            }, 
+            { 
+               "uid" : "Breast Diameter", 
+               "name" : "Breast Diameter", 
+               "value" : "0.2426993"
+            }, 
+            { 
+               "uid" : "Breast Large", 
+               "name" : "Breast Large", 
+               "value" : "0.02666578"
+            }, 
+            { 
+               "uid" : "Breast Pointed", 
+               "name" : "Breast Pointed", 
+               "value" : "0.1386443"
+            }, 
+            { 
+               "uid" : "Breast Round", 
+               "name" : "Breast Round", 
+               "value" : "-0.2132863"
+            }, 
+            { 
+               "uid" : "Breast Top Curve2", 
+               "name" : "Breast Top Curve2", 
+               "value" : "0.4044673"
+            }, 
+            { 
+               "uid" : "Breast Under Smoother3", 
+               "name" : "Breast Under Smoother3", 
+               "value" : "-0.08797961"
+            }, 
+            { 
+               "uid" : "Breasts Diameter", 
+               "name" : "Breasts Diameter", 
+               "value" : "0.08531962"
+            }, 
+            { 
+               "uid" : "Nipples", 
+               "name" : "Nipples", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-relaxation", 
+               "name" : "Labia majora-relaxation", 
+               "value" : "0.5"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-LLow", 
+               "name" : "Labia majora-spread-LLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia majora-spread-RLow", 
+               "name" : "Labia majora-spread-RLow", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-relaxation", 
+               "name" : "Labia minora-relaxation", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-size", 
+               "name" : "Labia minora-size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Labia minora-thickness", 
+               "name" : "Labia minora-thickness", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Tongue Narrow-Wide", 
+               "name" : "Tongue Narrow-Wide", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Glutes Size", 
+               "name" : "Glutes Size", 
+               "value" : "0.05599256"
+            }, 
+            { 
+               "uid" : "Pubic Area Size", 
+               "name" : "Pubic Area Size", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Thigh Upper Gap", 
+               "name" : "Thigh Upper Gap", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "ThighShape", 
+               "name" : "ThighShape", 
+               "value" : "-0.2772836"
+            }, 
+            { 
+               "uid" : "ThighStraight", 
+               "name" : "ThighStraight", 
+               "value" : "-0.4905772"
+            }, 
+            { 
+               "uid" : "Navel", 
+               "name" : "Navel", 
+               "value" : "0"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/female_genitalia/zoe.extra.Special_VaM_Dedicated_910.Genital.vmi", 
+               "name" : "zoe.extra.Special_VaM_Dedicated_910.Genital", 
+               "value" : "1"
+            }, 
+            { 
+               "uid" : "Custom/Atom/Person/Morphs/female/zoe.extra.Special_VaM_Dedicated_913.Nomal_Scale.vmi", 
+               "name" : "zoe.extra.Special_VaM_Dedicated_913.Nomal_Scale", 
+               "value" : "1"
+            }
+         ]
+      }, 
+      { 
+         "id" : "geometry"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useMaleMorphsOnFemale" : "false"
+      }, 
+      { 
+         "id" : "geometry", 
+         "useFemaleMorphsOnMale" : "false"
+      }
+   ]
+}

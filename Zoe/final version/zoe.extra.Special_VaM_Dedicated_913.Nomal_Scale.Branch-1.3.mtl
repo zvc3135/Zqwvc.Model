@@ -1,0 +1,282 @@
+# Blender 5.1.2 MTL File: 'None'
+# www.blender.org
+
+newmtl Cornea
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.000000
+illum 1
+
+newmtl Ears
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg
+
+newmtl EyeReflection
+Ns 0.750000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.000000
+illum 9
+
+newmtl Eyelashes
+Ns 0.750000
+Ka 1.000000 1.000000 1.000000
+Kd 0.168627 0.156863 0.133333
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 2
+
+newmtl Face
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeHeadM.jpg
+
+newmtl Feet
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Fingernails
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Forearms
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Gums
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeInMouthM.jpg
+
+newmtl Hands
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Head
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg
+
+newmtl Hips
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg
+
+newmtl InnerMouth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeInMouthM.jpg
+
+newmtl Irises
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeEyesM.jpg
+
+newmtl Lacrimals
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeEyesM.jpg
+
+newmtl Legs
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Lips
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeHeadM.jpg
+
+newmtl Neck
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg
+
+newmtl Nipples
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg
+
+newmtl Nostrils
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeHeadM.jpg
+
+newmtl Pupils
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeEyesM.jpg
+
+newmtl Sclera
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeEyesM.jpg
+
+newmtl Shoulders
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Tear
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.000000
+illum 1
+
+newmtl Teeth
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeInMouthM.jpg
+
+newmtl Toenails
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeLimbsM.jpg
+
+newmtl Tongue
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeInMouthM.jpg
+
+newmtl Torso
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/Public/Documents/My DAZ 3D Library/Runtime/textures/DAZ/Characters/Genesis2/BaseFemale/V5BreeTorsoM.jpg

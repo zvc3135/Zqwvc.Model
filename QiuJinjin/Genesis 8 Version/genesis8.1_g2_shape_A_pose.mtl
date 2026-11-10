@@ -1,0 +1,93 @@
+newmtl Body
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseBodyMapD_1003.jpg"
+
+newmtl Face
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg"
+
+newmtl Lips
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg"
+
+newmtl Teeth
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseMouthMapD_1006.jpg"
+
+newmtl Ears
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg"
+
+newmtl Legs
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg"
+
+newmtl EyeSocket
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg"
+
+newmtl Mouth
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseMouthMapD_1006.jpg"
+
+newmtl Arms
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg"
+
+newmtl Pupils
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg"
+
+newmtl EyeMoisture
+d 0.995
+Kd 1 1 1
+
+newmtl Fingernails
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg"
+
+newmtl Cornea
+d 0.995
+Kd 1 1 1
+
+newmtl Irises
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg"
+
+newmtl Sclera
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg"
+
+newmtl Toenails
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg"
+
+newmtl Head
+d 1
+Kd 1 1 1
+map_Kd "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseHeadMapD_1002.jpg"
+
+newmtl Eyelashes
+d 1
+Kd 0.082352944 0.070588239 0.062745102
+map_D "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FEyelashesO.jpg"
+
+newmtl Tear
+d 0.995
+Kd 0.89411765 0.89411765 0.89411765
+map_D "C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1TearOpacity.jpg"
+

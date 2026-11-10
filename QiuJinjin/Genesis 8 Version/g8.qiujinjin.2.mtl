@@ -1,0 +1,172 @@
+# Blender 5.1.2 MTL File: '115.blend'
+# www.blender.org
+
+newmtl Arms_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg
+
+newmtl Body_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseBodyMapD_1003.jpg
+
+newmtl Cornea_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.995000
+illum 1
+
+newmtl Ears_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg
+
+newmtl EyeMoisture_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.995000
+illum 1
+
+newmtl EyeSocket_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg
+
+newmtl Face_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg
+
+newmtl Fingernails_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseArmsMapD_1004.jpg
+
+newmtl Head_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseHeadMapD_1002.jpg
+
+newmtl Irises_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg
+
+newmtl Legs_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg
+
+newmtl Lips_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseFaceMapD_1001.jpg
+
+newmtl Mouth_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseMouthMapD_1006.jpg
+
+newmtl Pupils_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg
+
+newmtl Sclera_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseEyes01_1007.jpg
+
+newmtl Teeth_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8_1/FemaleBase/G8_1FBaseMouthMapD_1006.jpg
+
+newmtl Toenails_genesis8.1_g2_shape_A_pose.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:/Users/qiuweiyan/Documents/DAZ 3D/Studio/My DAZ 3D Library/Runtime/Textures/DAZ/Characters/Genesis8/FemaleBase/G8FBaseLegsMapD_1003.jpg
